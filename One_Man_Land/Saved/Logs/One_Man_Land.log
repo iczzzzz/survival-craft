@@ -1981,3 +1981,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-19.45.30:196][852]LogSavePackage: Moving '../../../../../../Users/roger/Documents/GitHub/survival-craft/One_Man_Land/Saved/FirstPersonExampleMap1D2C561C47A7CD926FA2F9953D7FDD6F.tmp' to '../../../../../../Users/roger/Documents/GitHub/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2020.02.25-19.45.30:241][852]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2020.02.25-19.45.30:241][852]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-19.53.26:486][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.25-19.53.30:088][473]LogSlate: Window 'Save Content' being destroyed
+[2020.02.25-19.53.31:018][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.02.25-19.53.31:273][522]LogSavePackage: Moving '../../../../../../Users/roger/Documents/GitHub/survival-craft/One_Man_Land/Saved/FirstPersonExampleMap7B1E91E04B81861E9011668DEF7E4473.tmp' to '../../../../../../Users/roger/Documents/GitHub/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-19.53.31:319][522]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2020.02.25-19.53.31:319][522]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
