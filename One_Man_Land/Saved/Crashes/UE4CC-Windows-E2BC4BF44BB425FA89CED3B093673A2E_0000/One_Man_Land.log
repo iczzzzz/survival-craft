@@ -1,0 +1,913 @@
+﻿Log file open, 04/08/20 20:14:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: One_Man_Land
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.061295
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Instalacions/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.08-18.14.48:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.08-18.14.48:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.08-18.14.48:209][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.08-18.14.48:212][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-18.14.48:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-18.14.48:213][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-18.14.48:213][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-18.14.48:213][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.08-18.14.48:304][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.08-18.14.48:304][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.08-18.14.48:304][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-18.14.48:304][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-18.14.48:305][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.08-18.14.48:306][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.08-18.14.48:306][  0]LogInit: Computer: DESKTOP-C54KNHT
+[2020.04.08-18.14.48:306][  0]LogInit: User: Usuari
+[2020.04.08-18.14.48:306][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.08-18.14.48:306][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.08-18.14.48:307][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.04.08-18.14.48:307][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.08-18.14.48:307][  0]LogMemory: Process Physical Memory: 105.83 MB used, 105.84 MB peak
+[2020.04.08-18.14.48:307][  0]LogMemory: Process Virtual Memory: 100.62 MB used, 100.62 MB peak
+[2020.04.08-18.14.48:307][  0]LogMemory: Physical Memory: 6644.78 MB used,  1389.52 MB free, 8034.30 MB total
+[2020.04.08-18.14.48:307][  0]LogMemory: Virtual Memory: 5137.52 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.08-18.14.48:309][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.08-18.14.48:323][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.04.08-18.14.48:323][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.04.08-18.14.48:323][  0]LogInit: Using OS detected locale (es-ES).
+[2020.04.08-18.14.48:472][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.08-18.14.48:498][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.08-18.14.48:498][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.08-18.14.48:632][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-18.14.48:632][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.08-18.14.48:632][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.08-18.14.48:632][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.08-18.14.48:718][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.04.08-18.14.48:718][  0]LogD3D11RHI:       6052/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.08-18.14.48:738][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.08-18.14.48:738][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.08-18.14.48:740][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.08-18.14.48:740][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.08-18.14.48:740][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.08-18.14.48:775][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.08-18.14.48:775][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.08-18.14.48:775][  0]LogWindows: EnumDisplayDevices:
+[2020.04.08-18.14.48:775][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.08-18.14.48:775][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.08-18.14.48:776][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.08-18.14.48:776][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.04.08-18.14.48:776][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.04.08-18.14.48:776][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.04.08-18.14.48:776][  0]LogD3D11RHI:   Driver Version: 419.72 (internal:25.21.14.1972, unified:419.72)
+[2020.04.08-18.14.48:776][  0]LogD3D11RHI:      Driver Date: 3-18-2019
+[2020.04.08-18.14.48:776][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.08-18.14.48:828][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.08-18.14.48:828][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.08-18.14.48:844][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.08-18.14.49:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.08-18.14.49:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.08-18.14.49:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.08-18.14.49:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.08-18.14.49:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.08-18.14.49:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.08-18.14.49:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.08-18.14.49:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.08-18.14.49:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.08-18.14.49:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.08-18.14.49:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.08-18.14.49:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.08-18.14.49:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.08-18.14.49:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.08-18.14.49:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.08-18.14.49:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.08-18.14.49:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.08-18.14.49:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.08-18.14.49:336][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.08-18.14.49:338][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.08-18.14.49:354][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Intermediate/Shaders/WorkingDirectory/5436/).
+[2020.04.08-18.14.49:354][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuari/AppData/Local/Temp/UnrealShaderWorkingDir/873BD8DD4966CB1EB674A7B4DB36C0E2/'.
+[2020.04.08-18.14.49:354][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.08-18.14.49:354][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.08-18.14.49:354][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.08-18.14.50:011][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.08-18.14.50:088][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-18.14.50:088][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.08-18.14.50:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.08-18.14.50:088][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.08-18.14.50:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-18.14.50:088][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.08-18.14.50:099][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.08-18.14.50:099][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-18.14.50:099][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.08-18.14.50:100][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.08-18.14.50:100][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.08-18.14.50:100][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.08-18.14.50:131][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.08-18.14.50:133][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.08-18.14.50:134][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-18.14.50:189][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.04.08-18.14.50:446][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-18.14.50:585][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.08-18.14.50:585][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.08-18.14.50:585][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.08-18.14.50:585][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.08-18.14.50:585][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.08-18.14.50:598][  0]LogNetVersion: One_Man_Land 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3489033838)
+[2020.04.08-18.14.51:645][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.090834 seconds
+[2020.04.08-18.14.51:653][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.08-18.14.51:653][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.08-18.14.51:653][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.08-18.14.52:051][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.08-18.14.52:053][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.08-18.14.52:094][  0]SourceControl: Source control is disabled
+[2020.04.08-18.14.52:094][  0]SourceControl: Source control is disabled
+[2020.04.08-18.14.52:095][  0]SourceControl: Source control is disabled
+[2020.04.08-18.14.52:097][  0]SourceControl: Source control is disabled
+[2020.04.08-18.14.52:097][  0]SourceControl: Source control is disabled
+[2020.04.08-18.14.52:190][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.08-18.14.52:199][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-18.14.52:199][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-18.14.52:270][  0]LogOcInput: OculusInput pre-init called
+[2020.04.08-18.14.52:275][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.08-18.14.52:275][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.08-18.14.52:333][  0]LogEngine: Initializing Engine...
+[2020.04.08-18.14.52:333][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-18.14.52:334][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.08-18.14.52:653][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.08-18.14.52:659][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.08-18.14.52:756][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.08-18.14.52:756][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.08-18.14.52:756][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.08-18.14.52:756][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.08-18.14.52:756][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.08-18.14.52:756][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.08-18.14.52:756][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.08-18.14.52:756][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.08-18.14.52:757][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.08-18.14.52:757][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.08-18.14.52:765][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.08-18.14.52:765][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.04.08-18.14.52:765][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.08-18.14.52:765][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.08-18.14.52:765][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.08-18.14.52:765][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.08-18.14.52:765][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.08-18.14.52:766][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.08-18.14.52:766][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.08-18.14.52:786][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.04.08-18.14.52:794][  0]LogInit: FAudioDevice initialized.
+[2020.04.08-18.14.52:795][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.08-18.14.53:004][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-18.14.53:019][  0]LogInit: Texture streaming: Enabled
+[2020.04.08-18.14.53:026][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.08-18.14.53:026][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.08-18.14.53:028][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.08-18.14.53:356][  0]LogInit: Transaction tracking system initialized
+[2020.04.08-18.14.53:365][  0]BlueprintLog: New page: Editor Load
+[2020.04.08-18.14.53:387][  0]LocalizationService: Localization service is disabled
+[2020.04.08-18.14.55:028][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.08-18.14.55:028][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.08-18.14.55:687][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Content/' took 0.80s
+[2020.04.08-18.14.55:687][  0]SourceControl: Source control is disabled
+[2020.04.08-18.14.55:687][  0]Cmd: MAP LOAD FILE="../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-18.14.55:688][  0]LightingResults: New page: Lighting Build
+[2020.04.08-18.14.55:688][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-18.14.55:688][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-18.14.55:688][  0]MapCheck: New page: Map Check
+[2020.04.08-18.14.55:688][  0]LightingResults: New page: Lighting Build
+[2020.04.08-18.14.55:710][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.04.08-18.15.10:863][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.08-18.15.11:652][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-18.15.11:702][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=13058.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.04.08-18.15.11:875][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.04.08-18.15.11:878][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-18.15.11:878][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,16ms to complete.
+[2020.04.08-18.15.11:878][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 16.190
+[2020.04.08-18.15.13:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-18.15.13:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-18.15.13:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-18.15.13:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-18.15.13:566][  0]LogCollectionManager: Loaded 0 collections in 0.000691 seconds
+[2020.04.08-18.15.13:738][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Collections/' took 0.00s
+[2020.04.08-18.15.13:738][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Content/Developers/Usuari/Collections/' took 0.00s
+[2020.04.08-18.15.13:739][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/Motors2/survival-craft/One_Man_Land/Content/Collections/' took 0.00s
+[2020.04.08-18.15.13:739][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3015 classes and 717 folders.
+[2020.04.08-18.15.14:023][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-18.15.15:142][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.08-18.15.15:249][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.08-18.15.16:592][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-18.15.16:616][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.08-18.15.16:752][  0]LogSlate: Took 0.020542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.08-18.15.17:295][  0]LogRenderer: Reallocating scene render targets to support 992x460 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-18.15.17:811][  0]LogSlate: Took 0.030916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-18.15.17:918][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-18.15.17:918][  0]LogLoad: (Engine Initialization) Total time: 30.85 seconds
+[2020.04.08-18.15.17:918][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.08-18.15.18:051][  0]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.08-18.15.18:412][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.08-18.15.18:412][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.08-18.15.18:412][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.08-18.15.18:412][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.08-18.15.18:412][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.08-18.15.20:100][ 13]LogAssetRegistry: Asset discovery search completed in 29.9126 seconds
+[2020.04.08-18.15.20:105][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.04.08-18.18.51:374][457]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-18.18.51:397][457]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UMG/MainHUD.MainHUD
+[2020.04.08-18.18.52:409][457]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.08-18.18.55:222][457]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.08-18.19.06:808][813]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UMG/Crafting/MainCrafting.MainCrafting
+[2020.04.08-18.19.12:873][118]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UMG/Crafting/ItemsCraft.ItemsCraft
+[2020.04.08-18.19.42:253][434]LogSlate: Took 0.108048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.08-18.20.52:182][826]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.20.53:233][826]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.04.08-18.21.19:271][942]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.21.19:564][942]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.04.08-18.21.42:966][148]LogEditorTransaction: Undo Add Child
+[2020.04.08-18.23.06:443][270]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.23.06:814][270]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.04.08-18.23.42:559][ 81]BlueprintLog: New page: Compile MainHUD
+[2020.04.08-18.23.42:664][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.04.08-18.24.45:639][209]LogSlate: Took 0.076218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.08-18.25.00:751][991]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.25.01:315][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.04.08-18.26.09:168][280]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_16.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.26.14:157][512]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_16.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.26.18:648][696]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_16.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.26.30:716][313]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.26.31:189][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.04.08-18.26.38:120][645]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.26.58:250][572]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TemplatePickup_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.TemplatePickup_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.27.00:483][673]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.27.47:510][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.04.08-18.27.47:511][977]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.051
+[2020.04.08-18.27.47:535][977]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.04.08-18.27.47:677][977]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.04.08-18.27.47:677][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.04.08-18.27.48:523][977]LogSavePackage: Moving '../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/FirstPersonCharacter_Auto1EF9A0AE74B69C1C2B26107996B55E96D.tmp' to '../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.04.08-18.27.48:568][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/UMG/MainHUD] ([1] browsable assets)...
+[2020.04.08-18.27.48:568][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/UMG/MainHUD]
+[2020.04.08-18.27.48:775][977]LogSavePackage: Moving '../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/MainHUD_Auto16C4C7B60459058A474BFE48FBFE102C7.tmp' to '../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Autosaves/Game/FirstPersonBP/UMG/MainHUD_Auto1.uasset'
+[2020.04.08-18.27.48:802][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/UMG/Crafting/MainCrafting] ([1] browsable assets)...
+[2020.04.08-18.27.48:802][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/UMG/Crafting/MainCrafting]
+[2020.04.08-18.27.48:855][977]LogSavePackage: Moving '../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/MainCrafting_Auto1CE8DEFD34054069014792AA0E8831CC9.tmp' to '../../../../../Uni/3r/Motors2/survival-craft/One_Man_Land/Saved/Autosaves/Game/FirstPersonBP/UMG/Crafting/MainCrafting_Auto1.uasset'
+[2020.04.08-18.27.48:880][977]LogFileHelpers: Auto-saving content packages took 1.368
+[2020.04.08-18.28.36:445][344]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.28.39:266][475]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.28.46:223][836]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.28.46:715][836]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.04.08-18.28.54:168][199]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_20.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.28.57:935][377]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_20.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.29.08:867][876]LogProperty: Warning: Illegal TEXT reference to a private object in external package (BananaPF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BananaPF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_20.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.29.10:910][968]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF2_5) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_20.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.29.13:513][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (BinocularPickup_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BinocularPickup2_5) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_20.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.29.15:445][164]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TemplatePickup_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.TemplatePickup2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_20.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.29.35:939][208]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.29.35:957][208]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (ArrayProperty) Current(ObjectProperty) for package:  FObjectReader
+[2020.04.08-18.29.36:457][208]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.04.08-18.29.42:106][476]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_22.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.29.53:105][981]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_22.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.30.37:285][487]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.30.37:305][487]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (ObjectProperty) Current(SetProperty) for package:  FObjectReader
+[2020.04.08-18.30.37:811][487]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2020.04.08-18.30.48:348][999]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.31.04:010][730]LogProperty: Warning: Illegal TEXT reference to a private object in external package (BinocularPickup_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BinocularPickup_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.32.40:068][474]LogProperty: Warning: Illegal TEXT reference to a private object in external package (BinocularsPF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BinocularsPF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.32.42:587][585]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF3_8) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.32.54:582][ 74]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF2_5) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.32.56:714][161]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.33.19:317][148]BlueprintLog: New page: Compile MainHUD
+[2020.04.08-18.33.19:426][148]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2020.04.08-18.33.46:909][598]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.33.46:927][598]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (SetProperty) Current(MapProperty) for package:  FObjectReader
+[2020.04.08-18.33.46:928][598]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (SetProperty) Current(MapProperty) for package:  FObjectReader
+[2020.04.08-18.33.46:928][598]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (SetProperty) Current(MapProperty) for package:  FObjectReader
+[2020.04.08-18.33.47:073][598]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (SetProperty) Current(MapProperty) for package:  FObjectReader
+[2020.04.08-18.33.47:082][598]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (SetProperty) Current(MapProperty) for package:  FObjectReader
+[2020.04.08-18.33.47:092][598]LogClass: Warning: Type mismatch in CRAFTABLE_ITEMS of MainCrafting_C - Previous (SetProperty) Current(MapProperty) for package:  FObjectReader
+[2020.04.08-18.33.47:456][598]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2020.04.08-18.33.57:109][ 66]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.33.57:643][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.04.08-18.34.08:758][650]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.34.09:257][650]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2020.04.08-18.34.36:586][ 28]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.34.36:606][ 28]LogClass: Warning: Map Element Type mismatch in CRAFTABLE_ITEMS of CRAFTABLE_ITEMS - Previous (StrProperty to IntProperty) Current (ObjectProperty to IntProperty) for package: FObjectReader
+[2020.04.08-18.34.37:161][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.04.08-18.34.52:950][839]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.34.52:967][839]LogClass: Warning: Map Element Type mismatch in CRAFTABLE_ITEMS of CRAFTABLE_ITEMS - Previous (ObjectProperty to IntProperty) Current (StrProperty to ObjectProperty) for package: FObjectReader
+[2020.04.08-18.34.53:488][839]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/Crafting/MainCrafting.Default__MainCrafting_C).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD_C:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_34.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_29.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_30.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_12.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_10.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_6:MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_11.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_15.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_16.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_14.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_13.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_0:MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_6.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_3.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_2.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_4.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_5.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_33.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_35.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_4:MainCrafting_C_55).  Import failed...
+[2020.04.08-18.35.01:804][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_36.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/Crafting/MainCrafting.Default__MainCrafting_C).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD_C:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_34.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_29.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_30.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_12.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_10.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_6:MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_11.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_15.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:939][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_16.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_14.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_13.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_0:MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_6.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_3.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_2.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:940][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_4.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:941][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_5.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:941][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_33.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:941][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_35.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.10:941][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_4:MainCrafting_C_55).  Import failed...
+[2020.04.08-18.35.10:941][738]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_36.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:719][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/Crafting/MainCrafting.Default__MainCrafting_C).  Import failed...
+[2020.04.08-18.35.15:719][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:719][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD_C:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:719][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_34.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:719][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_29.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:719][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_30.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_12.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_10.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_6:MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_11.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_15.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_16.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_14.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_13.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_0:MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_6.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_3.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_2.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_4.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_5.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_33.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_35.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_4:MainCrafting_C_55).  Import failed...
+[2020.04.08-18.35.15:720][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_36.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.34:863][937]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.35.35:498][937]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/Crafting/MainCrafting.Default__MainCrafting_C).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Game/FirstPersonBP/UMG/MainHUD.MainHUD_C:WidgetTree.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_36.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_34.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_29.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_30.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_12.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_24.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_10.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_6:MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_11.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_15.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_18.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_16.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_14.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_13.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.WidgetTree_0:MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_6.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_3.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_2.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_4.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_5.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:175][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_33.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:176][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_35.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:176][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_37.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.39:176][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_4:MainCrafting_C_61).  Import failed...
+[2020.04.08-18.35.39:176][ 80]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ApplePF_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ApplePF_2) from referencer (MainCrafting_C /Engine/Transient.World_2:MainHUD_C_38.WidgetTree_0.MainCrafting).  Import failed...
+[2020.04.08-18.35.55:507][835]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.35.56:140][835]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2020.04.08-18.36.01:927][119]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.36.02:531][119]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.04.08-18.36.04:103][204]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.08-18.36.56:686][934]BlueprintLog: New page: Compile MainCrafting
+[2020.04.08-18.36.57:318][934]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2020.04.08-18.37.28:478][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PickupItems/AxePickup.AxePickup
+[2020.04.08-18.37.29:529][689]LogRenderer: Reallocating scene render targets to support 1032x536 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-18.37.41:039][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PickupItems/EdiblePick.EdiblePick
+[2020.04.08-18.37.46:648][475]LogSlate: Took 0.045679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.08-18.38.48:207][461]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-18.38.48:207][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-18.38.51:751][630]LogUObjectHash: Compacting FUObjectHashTables data took   9.76ms
+[2020.04.08-18.38.53:192][630]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.08-18.38.53:585][630]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.08-18.38.53:942][630]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.357 s
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: 
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: SObjectWidget for 'MaterialsCraft_C /Engine/Transient.World_2:MainHUD_C_14.WidgetTree_0.MainCrafting.WidgetTree_0.MaterialsCraft' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: Stack: 
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb49705d0e UE4Editor-UMG.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb4956f7a6 UE4Editor-UMG.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57fee47b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57fdbf18 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57fe1453 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a61f99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a616ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a616ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a61f99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a616ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a623e6c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a616bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a61f99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:942][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a616ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a616ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a61f99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a616ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5a69f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e1d356 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb4963558b UE4Editor-UMG.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb590bb485 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb5909804e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb58f8c308 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb58f8b53c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3f9ffd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3fa0abdc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3f2315a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3f498ec8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3f4a65c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57f91498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57fa9281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e0323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e89175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e7413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e68f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb90104ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb900f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb90107195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb900eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffbc53d5c0d USER32.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffbc53d5602 USER32.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb90108569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e94080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e31c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3f540fa6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3fa0a10e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3fa095d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb356e4a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb35806377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb357e3ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e39ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e703de UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb3582e08b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e01041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e7224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb57e67b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb90104918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb900f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb90107195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb900eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffbc53d5c0d USER32.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffbc53d5602 USER32.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffb90108699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ff7c05e6db0 UE4Editor.exe!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ff7c05fc3ec UE4Editor.exe!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ff7c05fc4ca UE4Editor.exe!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ff7c060ceae UE4Editor.exe!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ff7c060fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffbc5807bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: [Callstack] 0x00007ffbc604ced1 ntdll.dll!UnknownFunction []
+[2020.04.08-18.38.53:943][630]LogOutputDevice: Error: 
+[2020.04.08-18.38.53:949][630]LogStats:                SubmitErrorReport -  0.000 s
