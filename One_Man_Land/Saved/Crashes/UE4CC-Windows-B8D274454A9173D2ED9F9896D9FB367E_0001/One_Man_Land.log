@@ -1,0 +1,940 @@
+﻿Log file open, 04/30/20 16:34:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: One_Man_Land
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207802
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.30-14.34.34:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.30-14.34.34:788][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.30-14.34.34:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.30-14.34.34:790][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.30-14.34.34:797][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:797][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-14.34.34:797][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-14.34.34:797][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:797][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-14.34.34:798][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-14.34.34:799][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-14.34.34:800][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.30-14.34.34:801][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.30-14.34.34:802][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-14.34.34:802][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.30-14.34.34:807][  0]LogHAL: Display: Platform has ~ 8 GB [8428691456 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.30-14.34.34:807][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.30-14.34.34:807][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-14.34.34:808][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:808][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.04.30-14.34.34:809][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.04.30-14.34.34:810][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.30-14.34.34:811][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.30-14.34.34:812][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.30-14.34.34:812][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.30-14.34.34:812][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Temp/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.04.30-14.34.34:812][  0]LogInit: Computer: MSI
+[2020.04.30-14.34.34:812][  0]LogInit: User: orvid
+[2020.04.30-14.34.34:812][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.30-14.34.34:812][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.30-14.34.34:813][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.04.30-14.34.34:813][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.30-14.34.34:813][  0]LogMemory: Process Physical Memory: 106.30 MB used, 106.30 MB peak
+[2020.04.30-14.34.34:813][  0]LogMemory: Process Virtual Memory: 105.61 MB used, 105.61 MB peak
+[2020.04.30-14.34.34:813][  0]LogMemory: Physical Memory: 6432.22 MB used,  1606.01 MB free, 8038.23 MB total
+[2020.04.30-14.34.34:813][  0]LogMemory: Virtual Memory: 5163.30 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.04.30-14.34.35:496][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.30-14.34.35:530][  0]LogInit: Using OS detected language (ca-ES).
+[2020.04.30-14.34.35:530][  0]LogInit: Using OS detected locale (ca-ES).
+[2020.04.30-14.34.35:532][  0]LogTextLocalizationManager: No localization for 'ca-ES' exists, so 'en' will be used for the language.
+[2020.04.30-14.34.35:874][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.30-14.34.35:920][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.30-14.34.35:920][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.30-14.34.36:337][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-14.34.36:337][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.30-14.34.36:337][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.30-14.34.36:337][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.30-14.34.36:528][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.04.30-14.34.36:529][  0]LogD3D11RHI:       4021/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.30-14.34.36:579][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.30-14.34.36:580][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.30-14.34.36:587][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.30-14.34.36:587][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.30-14.34.36:593][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.30-14.34.36:593][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.30-14.34.36:594][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.30-14.34.36:684][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.30-14.34.36:684][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.04.30-14.34.36:684][  0]LogWindows: EnumDisplayDevices:
+[2020.04.30-14.34.36:684][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.30-14.34.36:684][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.30-14.34.36:685][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.30-14.34.36:686][  0]LogWindows:    3. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:686][  0]LogWindows:    4. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:687][  0]LogWindows:    5. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:687][  0]LogWindows:    6. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:687][  0]LogWindows:    7. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:688][  0]LogWindows:    8. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:688][  0]LogWindows:    9. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:689][  0]LogWindows:    10. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.04.30-14.34.36:690][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.04.30-14.34.36:690][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.04.30-14.34.36:690][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.04.30-14.34.36:690][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.04.30-14.34.36:690][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.04.30-14.34.36:764][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.30-14.34.36:764][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.30-14.34.36:789][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.30-14.34.37:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.30-14.34.37:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.30-14.34.37:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.30-14.34.37:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.30-14.34.37:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.30-14.34.37:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.30-14.34.37:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.30-14.34.37:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.30-14.34.37:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.30-14.34.37:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.30-14.34.37:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.30-14.34.37:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.30-14.34.37:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.30-14.34.37:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.30-14.34.37:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.30-14.34.37:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.30-14.34.37:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.30-14.34.37:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.30-14.34.37:998][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.30-14.34.38:003][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.30-14.34.38:038][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Temp/survival-craft/One_Man_Land/Intermediate/Shaders/WorkingDirectory/21040/).
+[2020.04.30-14.34.38:038][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/orvid/AppData/Local/Temp/UnrealShaderWorkingDir/9378151F4D25F2EFD3BA11BD057073CE/'.
+[2020.04.30-14.34.38:039][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.30-14.34.38:039][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.30-14.34.38:039][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.30-14.34.39:539][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.30-14.34.39:664][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/orvid/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.30-14.34.39:664][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/orvid/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.30-14.34.39:664][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Temp/survival-craft/One_Man_Land/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.30-14.34.39:664][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.30-14.34.39:664][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Temp/survival-craft/One_Man_Land/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-14.34.39:664][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.30-14.34.39:686][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.30-14.34.39:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-14.34.39:686][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.30-14.34.39:689][  0]LogDerivedDataCache: Using Local data cache path C:/Users/orvid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.30-14.34.39:689][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.30-14.34.39:689][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.30-14.34.39:751][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.30-14.34.39:755][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.30-14.34.39:755][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.30-14.34.39:848][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.04.30-14.34.40:402][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-14.34.40:680][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.30-14.34.40:680][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.30-14.34.40:680][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.30-14.34.40:680][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.30-14.34.40:680][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.30-14.34.40:723][  0]LogNetVersion: One_Man_Land 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3489033838)
+[2020.04.30-14.34.42:192][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.070645 seconds
+[2020.04.30-14.34.42:201][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.30-14.34.42:201][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.30-14.34.42:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.30-14.34.42:647][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.30-14.34.42:650][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.30-14.34.42:702][  0]SourceControl: Source control is disabled
+[2020.04.30-14.34.42:702][  0]SourceControl: Source control is disabled
+[2020.04.30-14.34.42:703][  0]SourceControl: Source control is disabled
+[2020.04.30-14.34.42:704][  0]SourceControl: Source control is disabled
+[2020.04.30-14.34.42:705][  0]SourceControl: Source control is disabled
+[2020.04.30-14.34.42:781][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.30-14.34.42:792][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.30-14.34.42:792][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.30-14.34.42:903][  0]LogOcInput: OculusInput pre-init called
+[2020.04.30-14.34.42:910][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.30-14.34.42:910][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.30-14.34.42:976][  0]LogEngine: Initializing Engine...
+[2020.04.30-14.34.42:977][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-14.34.42:978][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.30-14.34.43:391][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.30-14.34.43:398][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.30-14.34.43:421][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-14.34.43:421][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-14.34.43:421][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-14.34.43:421][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-14.34.43:421][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-14.34.43:421][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-14.34.43:421][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-14.34.43:422][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-14.34.43:422][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-14.34.43:422][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: 5: BackRight
+[2020.04.30-14.34.43:694][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.04.30-14.34.43:695][  0]LogAudioMixer: Display: 7: SideRight
+[2020.04.30-14.34.44:090][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.30-14.34.44:101][  0]LogInit: FAudioDevice initialized.
+[2020.04.30-14.34.44:101][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.30-14.34.44:199][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/orvid/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.30-14.34.44:201][  0]LogInit: Texture streaming: Enabled
+[2020.04.30-14.34.44:211][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.30-14.34.44:211][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.30-14.34.44:214][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.30-14.34.44:280][  0]LogInit: Transaction tracking system initialized
+[2020.04.30-14.34.44:288][  0]BlueprintLog: New page: Editor Load
+[2020.04.30-14.34.44:314][  0]LocalizationService: Localization service is disabled
+[2020.04.30-14.34.44:744][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.30-14.34.44:744][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.30-14.34.45:503][  0]LogFileCache: Scanning file cache for directory 'D:/Temp/survival-craft/One_Man_Land/Content/' took 0.13s
+[2020.04.30-14.34.45:528][  0]SourceControl: Source control is disabled
+[2020.04.30-14.34.45:529][  0]Cmd: MAP LOAD FILE="../../../../../Temp/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/MenuProva.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-14.34.45:546][  0]LightingResults: New page: Lighting Build
+[2020.04.30-14.34.45:546][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-14.34.45:546][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-14.34.45:547][  0]MapCheck: New page: Map Check
+[2020.04.30-14.34.45:547][  0]LightingResults: New page: Lighting Build
+[2020.04.30-14.34.45:585][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.30-14.34.46:529][  0]LogAIModule: Creating AISystem for world MenuProva
+[2020.04.30-14.34.46:531][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-14.34.46:726][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.04.30-14.34.46:727][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-14.34.46:727][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,203ms to complete.
+[2020.04.30-14.34.46:727][  0]LogFileHelpers: Loading map 'MenuProva' took 1.198
+[2020.04.30-14.34.49:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-14.34.49:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-14.34.49:489][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-14.34.49:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-14.34.49:819][  0]LogCollectionManager: Loaded 0 collections in 0.010069 seconds
+[2020.04.30-14.34.50:549][  0]LogFileCache: Scanning file cache for directory 'D:/Temp/survival-craft/One_Man_Land/Saved/Collections/' took 0.00s
+[2020.04.30-14.34.50:549][  0]LogFileCache: Scanning file cache for directory 'D:/Temp/survival-craft/One_Man_Land/Content/Developers/orvid/Collections/' took 0.00s
+[2020.04.30-14.34.50:550][  0]LogFileCache: Scanning file cache for directory 'D:/Temp/survival-craft/One_Man_Land/Content/Collections/' took 0.00s
+[2020.04.30-14.34.50:550][  0]LogContentBrowser: Native class hierarchy populated in 0.0336 seconds. Added 3015 classes and 717 folders.
+[2020.04.30-14.34.50:966][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.04.30-14.34.53:894][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.04.30-14.34.54:277][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 3 folders.
+[2020.04.30-14.34.57:419][  0]LogSlate: Took 0.000724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.30-14.34.57:440][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.30-14.34.57:639][  0]LogSlate: Took 0.022856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.30-14.34.58:671][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 9 NumSamples 1 (Frame:1).
+[2020.04.30-14.34.59:687][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.30-14.34.59:687][  0]LogLoad: (Engine Initialization) Total time: 28.84 seconds
+[2020.04.30-14.34.59:687][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.30-14.35.00:109][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.04.30-14.35.00:380][  0]LogSlate: Took 0.009176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-14.35.00:472][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Temp/survival-craft/One_Man_Land/Content/' took 0.74s
+[2020.04.30-14.35.00:654][  2]LogAssetRegistry: Asset discovery search completed in 20.8070 seconds
+[2020.04.30-14.35.00:659][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.04.30-14.35.06:090][136]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-14.35.11:193][136]LogAIModule: Creating AISystem for world Testing
+[2020.04.30-14.35.11:632][136]LogScript: Warning: Attempted to access a missing property on a CDO. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BowPF_C /Game/FirstPersonBP/Maps/Testing.Testing:PersistentLevel.OnHandItem_GEN_VARIABLE_BowPF_C_CAT_3
+	Function /Game/PickupItems/GunPickup.GunPickup_C:UserConstructionScript:005B
+[2020.04.30-14.35.11:668][136]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/Testing.Testing
+[2020.04.30-14.35.11:907][136]LogUObjectHash: Compacting FUObjectHashTables data took  10.47ms
+[2020.04.30-14.35.12:015][136]Cmd: MAP LOAD FILE="../../../../../Temp/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/Testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-14.35.12:018][136]LightingResults: New page: Lighting Build
+[2020.04.30-14.35.12:020][136]LoadErrors: New page: Loading map: Testing.umap
+[2020.04.30-14.35.12:032][136]LogWorld: UWorld::CleanupWorld for MenuProva, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-14.35.12:052][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-14.35.12:063][136]MapCheck: New page: Map Check
+[2020.04.30-14.35.12:063][136]LightingResults: New page: Lighting Build
+[2020.04.30-14.35.12:190][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.04.30-14.35.12:440][136]LogScript: Warning: Attempted to access a missing property on a CDO. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BowPF_C /Game/FirstPersonBP/Maps/Testing.Testing:PersistentLevel.OnHandItem_GEN_VARIABLE_BowPF_C_CAT_6
+	Function /Game/PickupItems/GunPickup.GunPickup_C:UserConstructionScript:005B
+[2020.04.30-14.35.12:720][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-14.35.12:859][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.04.30-14.35.12:936][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-14.35.12:961][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 25,246ms to complete.
+[2020.04.30-14.35.12:961][136]LogFileHelpers: Loading map 'Testing' took 1.041
+[2020.04.30-14.35.17:356][212]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.30-14.35.17:612][213]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.04.30-14.35.17:612][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.04.30-14.35.17:612][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.04.30-14.35.17:612][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.04.30-14.35.29:510][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.04.30-14.35.31:137][417]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.30-14.35.31:849][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.04.30-14.35.31:894][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.30-14.35.31:931][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.30-14.35.43:667][692]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.04.30-14.35.45:283][692]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.30-14.35.50:096][692]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/VehicleBP/Sedan/Sedan.Sedan
+	Asset Name: /Game/VehicleBP/Sedan/Sedan_BackWheel.Sedan_BackWheel
+	Asset Name: /Game/VehicleBP/Sedan/Sedan_FrontWheel.Sedan_FrontWheel
+[2020.04.30-14.35.52:146][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.30-14.35.52:179][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.30-14.35.52:212][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.30-14.35.52:243][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.04.30-14.35.52:273][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.04.30-14.36.01:314][898]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.30-14.36.01:631][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:631][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:631][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:631][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:631][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:632][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:633][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:633][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:633][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:633][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:633][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:634][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:634][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:634][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:634][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:634][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleHUD.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:635][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:636][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:637][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:642][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:650][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_DynamicCast_36
+[2020.04.30-14.36.01:650][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:660][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:660][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4287
+[2020.04.30-14.36.01:660][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:661][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:661][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_VariableGet_998
+[2020.04.30-14.36.01:661][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:661][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:661][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4302
+[2020.04.30-14.36.01:661][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:661][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:661][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_DynamicCast_51
+[2020.04.30-14.36.01:662][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:662][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:662][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4311
+[2020.04.30-14.36.01:662][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:662][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:662][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_VariableGet_1079
+[2020.04.30-14.36.01:662][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:662][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:663][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4326
+[2020.04.30-14.36.01:663][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:663][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:663][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_DynamicCast_50
+[2020.04.30-14.36.01:663][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:663][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:663][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4335
+[2020.04.30-14.36.01:663][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:664][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:664][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_VariableGet_1154
+[2020.04.30-14.36.01:664][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:664][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:664][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4350
+[2020.04.30-14.36.01:664][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:664][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:664][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_VariableGet_1192
+[2020.04.30-14.36.01:665][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:665][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:665][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4356
+[2020.04.30-14.36.01:665][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:665][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:665][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_VariableGet_1230
+[2020.04.30-14.36.01:665][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:665][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:665][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4362
+[2020.04.30-14.36.01:666][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:666][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:666][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by K2Node_VariableGet_1268
+[2020.04.30-14.36.01:666][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:666][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:666][898]LoadErrors: Failed to load /Game/VehicleBP/Sedan/Sedan.Sedan_C Referenced by EdGraphPin_4368
+[2020.04.30-14.36.01:666][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Blueprints/VehicleGameMode.uasset' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:716][898]LogBlueprint: Warning: [Compiler VehicleHUD] Could not find a variable named "InReverseGear" in 'VehicleHUD'.
+Make sure 'VehicleHUD' has been compiled for  Get InReverseGear
+[2020.04.30-14.36.01:716][898]LogBlueprint: Warning: [Compiler VehicleHUD] Could not find a variable named "GearDisplayColor" in 'VehicleHUD'.
+Make sure 'VehicleHUD' has been compiled for  Get GearDisplayColor
+[2020.04.30-14.36.01:717][898]LogBlueprint: Warning: [Compiler VehicleHUD] Could not find a variable named "GearDisplayReverseColor" in 'VehicleHUD'.
+Make sure 'VehicleHUD' has been compiled for  Get GearDisplayReverseColor
+[2020.04.30-14.36.01:717][898]LogBlueprint: Warning: [Compiler VehicleHUD] Could not find a variable named "Gear Display String" in 'VehicleHUD'.
+Make sure 'VehicleHUD' has been compiled for  Get Gear Display String
+[2020.04.30-14.36.01:726][898]LogBlueprint: Error: [Compiler VehicleHUD] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.30-14.36.01:736][898]LogBlueprint: Error: [Compiler VehicleHUD] In use pin  As Sedan  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.04.30-14.36.01:736][898]LogBlueprint: Warning: [Compiler VehicleHUD] Could not find a variable named "Speed Display String" in 'VehicleHUD'.
+Make sure 'VehicleHUD' has been compiled for  Get Speed Display String
+[2020.04.30-14.36.01:736][898]LogBlueprint: Error: [Compiler VehicleHUD] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.30-14.36.01:737][898]LogBlueprint: Error: [Compiler VehicleHUD] In use pin  As Sedan  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.04.30-14.36.01:737][898]LogBlueprint: Warning: [Compiler VehicleHUD] Could not find a variable named "IsInCar" in 'VehicleHUD'.
+Make sure 'VehicleHUD' has been compiled for  Get IsInCar
+[2020.04.30-14.36.01:737][898]LogBlueprint: Error: [Compiler VehicleHUD] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.30-14.36.01:738][898]LogBlueprint: Error: [Compiler VehicleHUD] In use pin  As Sedan  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.04.30-14.36.01:738][898]LogBlueprint: Error: [Compiler VehicleHUD] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.30-14.36.01:738][898]LogBlueprint: Error: [Compiler VehicleHUD] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.30-14.36.01:739][898]LogBlueprint: Error: [Compiler VehicleHUD] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.30-14.36.01:742][898]LogBlueprint: Error: [Compiler VehicleHUD] The property associated with  Is in Car  could not be found in '/Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD_C'
+[2020.04.30-14.36.01:743][898]LogBlueprint: Error: [Compiler VehicleHUD] The property associated with  Speed Display String  could not be found in '/Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD_C'
+[2020.04.30-14.36.01:743][898]LogBlueprint: Error: [Compiler VehicleHUD] The property associated with  In Reverse Gear  could not be found in '/Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD_C'
+[2020.04.30-14.36.01:744][898]LogBlueprint: Error: [Compiler VehicleHUD] The property associated with  Gear Display Color  could not be found in '/Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD_C'
+[2020.04.30-14.36.01:744][898]LogBlueprint: Error: [Compiler VehicleHUD] The property associated with  Gear Display Reverse Color  could not be found in '/Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD_C'
+[2020.04.30-14.36.01:744][898]LogBlueprint: Error: [Compiler VehicleHUD] The property associated with  Gear Display String  could not be found in '/Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD_C'
+[2020.04.30-14.36.01:754][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:755][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:755][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:755][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:756][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:756][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:757][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:758][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:796][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:796][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:797][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:797][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:798][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:798][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:799][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:799][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:800][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:800][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:800][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:801][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:803][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:803][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:804][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:804][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:804][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:805][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:806][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:807][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:807][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:807][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:807][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:808][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:808][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:808][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:809][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:809][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:810][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:810][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:811][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:811][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:811][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:812][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:812][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:813][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:813][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:813][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:814][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:814][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:815][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:815][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:815][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:816][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:821][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:821][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:821][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:822][898]LogLinker: Warning: Failed to load '/Game/VehicleBP/Sedan/Sedan': Can't find file.
+[2020.04.30-14.36.01:833][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.01:834][898]LoadErrors: Failed to load /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData Referenced by PersistentLevel
+[2020.04.30-14.36.01:834][898]LogLinker: Warning: While loading '../../../../../Temp/survival-craft/One_Man_Land/Content/VehicleBP/Maps/VehicleExampleMap.umap' failed to load '/Game/VehicleBP/Maps/VehicleExampleMap_BuiltData': Can't find file.
+[2020.04.30-14.36.02:129][898]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2020.04.30-14.36.02:147][898]LogObjectTools: Deleting 1 worlds: /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2020.04.30-14.36.02:147][898]LogObjectTools: Currently 2 active worlds: /Game/FirstPersonBP/Maps/Testing.Testing, /Engine/Transient.World_0
+[2020.04.30-14.36.02:232][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.30-14.36.03:313][898]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.30-14.36.03:385][898]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-14.36.03:386][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-14.36.03:608][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.30-14.36.03:680][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.30-14.36.03:717][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ChaseCamera': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InternalCamera': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'VehicleMesh': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SpringArm': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InCarGear': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InCarSpeed': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.03:725][898]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MovementComp': Sedan_C /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Sedan_C_0
+[2020.04.30-14.36.11:764][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.04.30-14.36.18:333][ 11]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.30-14.36.18:785][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.30-14.36.18:830][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.30-14.36.18:874][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.30-14.36.18:920][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.30-14.36.18:952][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.30-14.36.18:988][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.30-14.36.19:022][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.30-14.36.19:059][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.30-14.36.19:096][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.30-14.36.19:134][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.04.30-14.36.19:169][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.30-14.36.19:201][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.30-14.36.19:235][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.30-14.36.19:267][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.30-14.36.19:299][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.30-14.36.19:341][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.30-14.36.19:374][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.30-14.36.19:414][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.30-14.36.19:449][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.30-14.36.19:484][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.30-14.36.19:516][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.30-14.36.19:549][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.30-14.36.19:584][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.30-14.36.19:618][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.30-14.36.19:661][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.30-14.36.19:698][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.30-14.37.27:533][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.30-14.37.31:285][466]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.30-14.37.47:675][466]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Rabbit2/Rabbit2_Skeleton.Rabbit2_Skeleton
+	Asset Name: /Game/Rabbit2/Rabbit2_Anim_Rabbit_Idle.Rabbit2_Anim_Rabbit_Idle
+	Asset Name: /Game/Rabbit2/Rabbit2_Anim_Rabbit_Run.Rabbit2_Anim_Rabbit_Run
+	Asset Name: /Game/Rabbit2/Rabbit2AnimBlueprint.Rabbit2AnimBlueprint
+	Asset Name: /Game/Rabbit2/Rabbit2_PhysicsAsset.Rabbit2_PhysicsAsset
+	Asset Name: /Game/Rabbit2/Rabbit2.Rabbit2
+	Asset Name: /Game/Rabbit2/Rabbit_tex.Rabbit_tex
+[2020.04.30-14.37.49:734][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.30-14.37.49:769][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.30-14.37.49:817][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.30-14.37.49:852][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.30-14.37.49:887][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.30-14.37.49:920][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.30-14.37.49:955][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.30-14.37.49:992][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.30-14.37.50:028][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.30-14.37.57:834][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.30-14.38.01:191][617]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.30-14.38.17:551][617]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Rabbit/RabbitAnim.RabbitAnim
+	Asset Name: /Game/Rabbit/RabbitAnimated.RabbitAnimated
+	Asset Name: /Game/Rabbit/RabbitAnimated_Anim_Rabbit_Run.RabbitAnimated_Anim_Rabbit_Run
+	Asset Name: /Game/Rabbit/RabbitAnimated_PhysicsAsset.RabbitAnimated_PhysicsAsset
+	Asset Name: /Game/Rabbit/RabbitAnimated_Skeleton.RabbitAnimated_Skeleton
+	Asset Name: /Game/Rabbit/RabbitBlendspace.RabbitBlendspace
+	Asset Name: /Game/Rabbit/RabbitMaterial.RabbitMaterial
+	Asset Name: /Game/Rabbit/Rabbit_tex.Rabbit_tex
+[2020.04.30-14.38.17:948][617]LogMaterial: Display: Missing cached shader map for material RabbitMaterial, compiling. 
+[2020.04.30-14.38.18:053][617]LogMaterial: Warning: D:\Temp\survival-craft\One_Man_Land\Content\Rabbit\RabbitMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.30-14.38.18:053][617]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.30-14.38.19:463][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.04.30-14.38.19:497][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.30-14.38.19:532][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.30-14.38.19:571][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.30-14.38.19:605][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.30-14.38.19:642][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.30-14.38.19:679][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.30-14.38.19:716][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.30-14.38.19:755][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.30-14.38.19:790][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.30-14.39.11:709][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.30-14.39.15:664][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.30-14.39.22:614][ 70]Cmd: DELETE
+[2020.04.30-14.39.22:615][ 70]Cmd: ACTOR DELETE
+[2020.04.30-14.39.23:041][ 70]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.30-14.39.23:043][ 70]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
