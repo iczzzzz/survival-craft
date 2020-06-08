@@ -1,0 +1,1139 @@
+﻿Log file open, 06/08/20 20:29:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: One_Man_Land
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.054015
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Instalacions/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.08-18.29.11:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.08-18.29.11:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.08-18.29.11:312][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.08-18.29.11:314][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:314][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.08-18.29.11:314][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.08-18.29.11:314][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:314][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.08-18.29.11:314][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:314][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.08-18.29.11:314][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.08-18.29.11:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.08-18.29.11:316][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.08-18.29.11:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.08-18.29.11:317][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.08-18.29.11:317][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.08-18.29.11:320][  0]LogHAL: Display: Platform has ~ 16 GB [17035890688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.08-18.29.11:320][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.08-18.29.11:320][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:320][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.08-18.29.11:320][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.08-18.29.11:320][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:320][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.08-18.29.11:320][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:320][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.08-18.29.11:320][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.08-18.29.11:320][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.08-18.29.11:320][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.08-18.29.11:321][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.08-18.29.11:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.08-18.29.11:323][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.08-18.29.11:323][  0]LogInit: Computer: DESKTOP-6GKBG9S
+[2020.06.08-18.29.11:323][  0]LogInit: User: Usuari
+[2020.06.08-18.29.11:323][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.08-18.29.11:323][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.08-18.29.11:323][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.08-18.29.11:323][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.08-18.29.11:323][  0]LogMemory: Process Physical Memory: 107.25 MB used, 107.25 MB peak
+[2020.06.08-18.29.11:323][  0]LogMemory: Process Virtual Memory: 104.56 MB used, 104.56 MB peak
+[2020.06.08-18.29.11:323][  0]LogMemory: Physical Memory: 5657.96 MB used,  10588.73 MB free, 16246.69 MB total
+[2020.06.08-18.29.11:323][  0]LogMemory: Virtual Memory: 5141.51 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.06.08-18.29.11:325][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.08-18.29.11:341][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.06.08-18.29.11:341][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.06.08-18.29.11:341][  0]LogInit: Using OS detected locale (es-ES).
+[2020.06.08-18.29.11:477][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.08-18.29.11:506][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.08-18.29.11:506][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.08-18.29.11:612][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.08-18.29.11:612][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.08-18.29.11:612][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.08-18.29.11:612][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.08-18.29.11:635][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.06.08-18.29.11:635][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.06.08-18.29.11:700][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.06.08-18.29.11:700][  0]LogD3D11RHI:       8088/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2020.06.08-18.29.11:702][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.08-18.29.11:702][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.08-18.29.11:702][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2020.06.08-18.29.11:707][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.08-18.29.11:707][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.08-18.29.11:707][  0]LogWindows: EnumDisplayDevices:
+[2020.06.08-18.29.11:707][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.06.08-18.29.11:708][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.08-18.29.11:708][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.08-18.29.11:708][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.08-18.29.11:709][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.08-18.29.11:709][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.08-18.29.11:709][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.08-18.29.11:709][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.06.08-18.29.11:709][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.06.08-18.29.11:709][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.06.08-18.29.11:709][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.06.08-18.29.11:709][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.06.08-18.29.11:747][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.08-18.29.11:747][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.08-18.29.11:758][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.08-18.29.12:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.08-18.29.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.08-18.29.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.08-18.29.12:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.08-18.29.12:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.08-18.29.12:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.08-18.29.12:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.08-18.29.12:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.08-18.29.12:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.08-18.29.12:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.08-18.29.12:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.08-18.29.12:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.08-18.29.12:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.08-18.29.12:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.08-18.29.12:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.08-18.29.12:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.08-18.29.12:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.08-18.29.12:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.08-18.29.12:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.08-18.29.12:167][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.08-18.29.12:169][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.08-18.29.12:184][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Intermediate/Shaders/WorkingDirectory/13496/).
+[2020.06.08-18.29.12:184][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuari/AppData/Local/Temp/UnrealShaderWorkingDir/084372BB4D79B9A32696DEBF1855A8CF/'.
+[2020.06.08-18.29.12:184][  0]LogXGEController: Cleaning working directory: C:/Users/Usuari/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.08-18.29.12:184][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.08-18.29.12:185][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.08-18.29.12:185][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.08-18.29.12:764][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.08-18.29.12:809][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.08-18.29.12:809][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.08-18.29.12:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.08-18.29.12:809][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.08-18.29.12:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.08-18.29.12:809][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.08-18.29.12:817][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.08-18.29.12:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.08-18.29.12:818][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.08-18.29.12:819][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.08-18.29.12:819][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.08-18.29.12:819][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.08-18.29.12:839][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.08-18.29.12:842][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.08-18.29.12:842][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.08-18.29.12:889][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.06.08-18.29.13:150][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.08-18.29.13:271][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.08-18.29.13:271][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.08-18.29.13:271][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.08-18.29.13:271][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.08-18.29.13:271][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.08-18.29.13:280][  0]LogNetVersion: One_Man_Land 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3489033838)
+[2020.06.08-18.29.14:084][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035018 seconds
+[2020.06.08-18.29.14:090][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.06.08-18.29.14:090][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.06.08-18.29.14:090][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.08-18.29.14:398][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.08-18.29.14:400][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.08-18.29.14:439][  0]SourceControl: Source control is disabled
+[2020.06.08-18.29.14:439][  0]SourceControl: Source control is disabled
+[2020.06.08-18.29.14:440][  0]SourceControl: Source control is disabled
+[2020.06.08-18.29.14:440][  0]SourceControl: Source control is disabled
+[2020.06.08-18.29.14:441][  0]SourceControl: Source control is disabled
+[2020.06.08-18.29.14:499][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.08-18.29.14:507][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.08-18.29.14:507][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.08-18.29.14:571][  0]LogOcInput: OculusInput pre-init called
+[2020.06.08-18.29.14:576][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.08-18.29.14:577][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.08-18.29.14:628][  0]LogEngine: Initializing Engine...
+[2020.06.08-18.29.14:628][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.08-18.29.14:629][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.08-18.29.14:930][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.08-18.29.14:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.08-18.29.14:941][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.08-18.29.14:941][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.08-18.29.14:941][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.08-18.29.14:942][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.08-18.29.14:942][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.08-18.29.14:942][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.08-18.29.14:942][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.08-18.29.14:942][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.08-18.29.14:942][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.08-18.29.14:942][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.08-18.29.14:975][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.08-18.29.14:994][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.29.14:997][  0]LogInit: FAudioDevice initialized.
+[2020.06.08-18.29.14:998][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.08-18.29.15:134][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.08-18.29.15:138][  0]LogInit: Texture streaming: Enabled
+[2020.06.08-18.29.15:145][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.08-18.29.15:145][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={AEB4CB67-4C2E-8344-3592-D7A5D4A00540}
+[2020.06.08-18.29.15:145][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.08-18.29.15:146][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.08-18.29.15:206][  0]LogInit: Transaction tracking system initialized
+[2020.06.08-18.29.15:213][  0]BlueprintLog: New page: Editor Load
+[2020.06.08-18.29.15:234][  0]LocalizationService: Localization service is disabled
+[2020.06.08-18.29.15:452][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/' took 0.00s
+[2020.06.08-18.29.15:452][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.08-18.29.15:452][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.08-18.29.15:952][  0]SourceControl: Source control is disabled
+[2020.06.08-18.29.15:952][  0]Cmd: MAP LOAD FILE="../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/MenuProva.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.08-18.29.15:953][  0]LightingResults: New page: Lighting Build
+[2020.06.08-18.29.15:953][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.29.15:953][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.29.15:953][  0]MapCheck: New page: Map Check
+[2020.06.08-18.29.15:954][  0]LightingResults: New page: Lighting Build
+[2020.06.08-18.29.15:976][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.06.08-18.29.16:590][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ExitBinoculars' for  InputAction ExitBinoculars
+[2020.06.08-18.29.17:463][  0]LogAIModule: Creating AISystem for world MenuProva
+[2020.06.08-18.29.17:467][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.08-18.29.17:500][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.06.08-18.29.17:500][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.08-18.29.17:501][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2020.06.08-18.29.17:501][  0]LogFileHelpers: Loading map 'MenuProva' took 1.548
+[2020.06.08-18.29.17:654][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.29.17:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.29.17:665][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.29.17:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.29.17:674][  0]LogCollectionManager: Loaded 0 collections in 0.000668 seconds
+[2020.06.08-18.29.17:684][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Collections/' took 0.00s
+[2020.06.08-18.29.17:684][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Developers/Usuari/Collections/' took 0.00s
+[2020.06.08-18.29.17:684][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Collections/' took 0.00s
+[2020.06.08-18.29.17:684][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3015 classes and 717 folders.
+[2020.06.08-18.29.17:685][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.08-18.29.17:714][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.08-18.29.17:717][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.06.08-18.29.17:774][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.08-18.29.17:776][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.08-18.29.17:781][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.08-18.29.17:844][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.06.08-18.29.17:888][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.08-18.29.17:918][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.08-18.29.17:918][  0]LogLoad: (Engine Initialization) Total time: 7.63 seconds
+[2020.06.08-18.29.17:918][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.08-18.29.17:998][  0]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.06.08-18.29.18:047][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.08-18.29.18:047][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.08-18.29.18:047][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.08-18.29.18:047][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.08-18.29.18:047][  0]LogAssetRegistry: Asset discovery search completed in 5.1586 seconds
+[2020.06.08-18.29.18:050][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.06.08-18.29.18:051][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.08-18.29.18:106][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/' took 0.17s
+[2020.06.08-18.29.18:966][ 96]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.08-18.29.38:197][351]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/HUD/Inventory/MainInventory.MainInventory
+[2020.06.08-18.29.38:409][351]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.06.08-18.29.39:199][351]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.06.08-18.29.39:612][351]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PickupItems/PickupPrefabs/Pickaxe/PickaxePF.PickaxePF
+[2020.06.08-18.29.39:928][351]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PickupItems/Mesh/Pickaxe/Pick.Pick
+[2020.06.08-18.29.40:263][351]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PickupItems/PickaxePickup.PickaxePickup
+[2020.06.08-18.29.40:612][351]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MaterialMaker/Rock.Rock
+[2020.06.08-18.29.46:017][887]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.08-18.29.46:058][888]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.08-18.29.54:168][619]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.06.08-18.29.54:248][619]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ExitBinoculars' for  InputAction ExitBinoculars
+[2020.06.08-18.29.54:558][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.06.08-18.30.00:770][146]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.06.08-18.30.01:097][146]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.06.08-18.30.08:059][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.06.08-18.30.08:227][775]LogSavePackage: Moving '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/FirstPersonCharacterB6A2CF764A1B9AC56EDFC2B9DAADC9D9.tmp' to '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.06.08-18.30.08:242][775]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.06.08-18.30.08:242][775]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.06.08-18.30.11:848][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Rabbit.uasset' failed to load '/Game/Rabbit/Rabbit': Can't find file.
+[2020.06.08-18.30.11:848][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Rabbit.uasset' failed to load '/Game/Rabbit/Rabbit': Can't find file.
+[2020.06.08-18.30.11:848][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Rabbit.uasset' failed to load '/Game/Rabbit/Rabbit': Can't find file.
+[2020.06.08-18.30.11:848][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Rabbit.uasset' failed to load '/Game/Rabbit/Rabbit': Can't find file.
+[2020.06.08-18.30.11:849][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Wolf.uasset' failed to load '/Game/Wolf/Wolf': Can't find file.
+[2020.06.08-18.30.11:850][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Wolf.uasset' failed to load '/Game/Wolf/Wolf': Can't find file.
+[2020.06.08-18.30.11:850][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Wolf.uasset' failed to load '/Game/Wolf/Wolf': Can't find file.
+[2020.06.08-18.30.11:850][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Wolf.uasset' failed to load '/Game/Wolf/Wolf': Can't find file.
+[2020.06.08-18.30.11:923][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Wolf.uasset' failed to load '/Game/Wolf/Wolf': Can't find file.
+[2020.06.08-18.30.11:924][145]LoadErrors: Failed to load /Game/Wolf/Wolf.Wolf_C Referenced by Wolf
+[2020.06.08-18.30.11:924][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Wolf.uasset' failed to load '/Game/Wolf/Wolf': Can't find file.
+[2020.06.08-18.30.11:924][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Rabbit.uasset' failed to load '/Game/Rabbit/Rabbit': Can't find file.
+[2020.06.08-18.30.11:924][145]LoadErrors: Failed to load /Game/Rabbit/Rabbit.Rabbit_C Referenced by Rabbit
+[2020.06.08-18.30.11:924][145]LogLinker: Warning: While loading '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/Foliage/Rabbit.uasset' failed to load '/Game/Rabbit/Rabbit': Can't find file.
+[2020.06.08-18.30.12:316][145]LogAIModule: Creating AISystem for world Main
+[2020.06.08-18.30.12:523][145]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/Main.Main
+[2020.06.08-18.30.12:572][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.06.08-18.30.12:574][145]Cmd: MAP LOAD FILE="../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.08-18.30.12:574][145]LightingResults: New page: Lighting Build
+[2020.06.08-18.30.12:575][145]LoadErrors: New page: Loading map: Main.umap
+[2020.06.08-18.30.12:575][145]LogWorld: UWorld::CleanupWorld for MenuProva, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.30.12:575][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.30.12:575][145]MapCheck: New page: Map Check
+[2020.06.08-18.30.12:575][145]LightingResults: New page: Lighting Build
+[2020.06.08-18.30.12:616][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.06.08-18.30.12:867][145]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.08-18.30.12:931][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.06.08-18.30.12:980][145]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.08-18.30.12:980][145]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2020.06.08-18.30.12:980][145]LogFileHelpers: Loading map 'Main' took 0.406
+[2020.06.08-18.30.37:325][286]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.06.08-18.30.37:746][286]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.06.08-18.30.47:877][216]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.30.47:877][216]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.08-18.30.47:940][216]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.063 s
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: 
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: Ensure condition failed: Obj != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PropertyEditor/Private/PropertyChangeListener.cpp] [Line: 239]
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: 
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: Stack: 
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8adc7509 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8abd0307 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc7d07c1ad UE4Editor-Sequencer.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc7d02c20e UE4Editor-Sequencer.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcabe2b50b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc7f134c57 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcabe2b3fc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcabe2d5e7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcabe2b116 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8ab9a923 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8ab86985 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8ab86e0f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8abd76f9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8abd7e9a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8abd6a64 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8ace4eb2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8ac80b99 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8acadef7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc8ac81e69 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc7ca64054 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc7ca0f279 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc88895cf1 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc88889539 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc963f8af9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc9637e957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc9645fa4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc96460e1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc9637729d UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc961d1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc9624224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffc96237b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcac504918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcac4f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcac507195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcac4eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcee255c0d USER32.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcee255602 USER32.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcac508699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ff694016db0 UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ff69402c3ec UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ff69402c4ca UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ff69403ceae UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ff69403fcbe UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffcede47bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: [Callstack] 0x00007ffceea4ce51 ntdll.dll!UnknownFunction []
+[2020.06.08-18.30.47:940][216]LogOutputDevice: Error: 
+[2020.06.08-18.30.47:948][216]LogStats:                SubmitErrorReport -  0.000 s
+[2020.06.08-18.30.48:920][216]LogStats:                    SendNewReport -  0.972 s
+[2020.06.08-18.30.48:920][216]LogStats:             FDebug::EnsureFailed -  1.042 s
+[2020.06.08-18.30.48:921][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.30.48:923][216]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.30.48:925][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.30.51:169][375]BlueprintLog: New page: Compile PickaxePF
+[2020.06.08-18.30.51:436][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.06.08-18.30.51:439][375]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.30.51:440][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.30.51:445][375]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.30.51:446][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:004][ 93]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:005][ 93]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:008][ 93]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:010][ 93]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:938][174]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:940][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:942][174]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:943][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.00:969][177]BlueprintLog: New page: Compile PickaxePF
+[2020.06.08-18.31.01:220][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.06.08-18.31.01:224][177]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.01:226][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.01:230][177]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.01:231][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:237][175]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:238][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:241][175]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:242][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:279][178]BlueprintLog: New page: Compile PickaxePF
+[2020.06.08-18.31.12:531][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.06.08-18.31.12:535][178]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:536][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:541][178]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.12:542][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:400][602]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:401][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:403][602]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:404][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:454][606]BlueprintLog: New page: Compile PickaxePF
+[2020.06.08-18.31.22:710][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.06.08-18.31.22:715][606]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:716][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:721][606]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.22:722][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.23:869][697]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.31.23:869][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.31.23:951][697]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PickupItems/PickupPrefabs/Pickaxe/PickaxePF.PickaxePF
+[2020.06.08-18.31.32:112][366]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.32:114][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.33:654][485]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.33:656][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.55:367][246]BlueprintLog: New page: Compile PickaxePF
+[2020.06.08-18.31.55:663][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.06.08-18.31.55:667][246]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.55:668][246]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.55:673][246]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.31.55:674][246]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.04:013][874]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_277.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.04:015][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_599.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.04:017][874]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_279.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.04:018][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_601.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.08:395][238]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_281.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.08:396][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_603.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.08:398][238]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_283.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.08:399][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_605.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.10:073][360]BlueprintLog: New page: Compile PickaxePF
+[2020.06.08-18.33.10:381][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.06.08-18.33.10:385][360]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_285.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.10:386][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_607.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.10:392][360]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_287.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.10:393][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_PickaxePF_C_CHILDACTOR_609.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.06.08-18.33.13:079][565]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.08-18.33.14:729][699]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.08-18.33.14:774][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.14:774][699]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.08-18.33.14:825][699]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.06.08-18.33.15:275][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.06.08-18.33.15:276][699]LogPlayLevel: PlayLevel: Blueprint regeneration took 502 ms (1 blueprints)
+[2020.06.08-18.33.15:276][699]PIE: New page: PIE session: Main (8 jun. 2020 22:33:15)
+[2020.06.08-18.33.15:277][699]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.08-18.33.15:278][699]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.06.08-18.33.15:278][699]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.33.15:347][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068172s)
+[2020.06.08-18.33.15:348][699]LogAIModule: Creating AISystem for world Main
+[2020.06.08-18.33.15:348][699]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2020.06.08-18.33.15:348][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Main.Main to /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main (0.069352s)
+[2020.06.08-18.33.15:389][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.08-18.33.15:391][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.08-18.33.15:391][699]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.08-18.33.15:391][699]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: Is Default: Yes
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: Channel Order:
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.08-18.33.15:411][699]LogAudioMixer: Display: 1: FrontRight
+[2020.06.08-18.33.15:424][699]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.33.15:425][699]LogInit: FAudioDevice initialized.
+[2020.06.08-18.33.15:433][699]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.08-18.33.15:452][699]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.06.08-20.33.15
+[2020.06.08-18.33.15:454][699]LogWorld: Bringing up level for play took: 0.019890
+[2020.06.08-18.33.15:454][699]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.06.08-18.33.15:456][699]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.08-18.33.15:457][699]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.06.08-18.33.15:489][699]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.33.15:489][699]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.33.15:490][699]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Main -0,263
+[2020.06.08-18.33.15:490][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.17:276][809]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.33.17:282][809]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.08-18.33.17:302][809]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.08-18.33.17:302][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.17:303][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.33.17:303][809]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.33.17:303][809]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.33.17:304][809]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.33.17:306][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.33.17:321][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.08-18.33.17:321][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.17:328][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.33.17:369][809]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.33.17:371][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.33.17:403][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.06.08-18.33.17:440][810]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.06.08-18.33.18:833][925]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:4163).
+[2020.06.08-18.33.23:806][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.06.08-18.33.23:870][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.06.08-18.33.24:442][308]LogSavePackage: Moving '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/MainE07510424BFA6E43B3F91A9D5A855658.tmp' to '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/FirstPersonBP/Maps/Main.umap'
+[2020.06.08-18.33.24:496][308]LogFileHelpers: Saving map 'Main' took 0.666
+[2020.06.08-18.33.24:648][308]LogSavePackage: Moving '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/FirstPersonCharacter27CA9F6B41BCC5284252179008548D6C.tmp' to '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.06.08-18.33.24:670][308]LogSavePackage: Moving '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/PickaxePFB17C5C0B4E0532C2D9BB5E8EA9FA666A.tmp' to '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/PickupItems/PickupPrefabs/Pickaxe/PickaxePF.uasset'
+[2020.06.08-18.33.24:701][308]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.08-18.33.24:701][308]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Main.Main
+[2020.06.08-18.33.24:701][308]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.06.08-18.33.24:701][308]LogContentValidation: Display: Validating Blueprint /Game/PickupItems/PickupPrefabs/Pickaxe/PickaxePF.PickaxePF
+[2020.06.08-18.33.25:128][349]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.08-18.33.25:172][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.25:172][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.08-18.33.25:173][349]PIE: New page: PIE session: Main (8 jun. 2020 22:33:25)
+[2020.06.08-18.33.25:173][349]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.33.25:240][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067454s)
+[2020.06.08-18.33.25:241][349]LogAIModule: Creating AISystem for world Main
+[2020.06.08-18.33.25:241][349]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2020.06.08-18.33.25:241][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Main.Main to /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main (0.068603s)
+[2020.06.08-18.33.25:287][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.06.08-18.33.25:289][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.08-18.33.25:289][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.08-18.33.25:289][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.08-18.33.25:289][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.08-18.33.25:289][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.08-18.33.25:289][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.08-18.33.25:289][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.08-18.33.25:289][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.08-18.33.25:290][349]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.08-18.33.25:290][349]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: Is Default: Yes
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: Channel Order:
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.08-18.33.25:309][349]LogAudioMixer: Display: 1: FrontRight
+[2020.06.08-18.33.25:321][349]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.33.25:322][349]LogInit: FAudioDevice initialized.
+[2020.06.08-18.33.25:327][349]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.08-18.33.25:345][349]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.06.08-20.33.25
+[2020.06.08-18.33.25:347][349]LogWorld: Bringing up level for play took: 0.018734
+[2020.06.08-18.33.25:347][349]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.06.08-18.33.25:348][349]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.08-18.33.25:380][349]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.33.25:380][349]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.33.25:381][349]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Main -0,371
+[2020.06.08-18.33.25:382][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.26:664][477]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.33.26:673][477]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.08-18.33.26:693][477]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.08-18.33.26:693][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.26:694][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.33.26:694][477]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.33.26:694][477]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.33.26:694][477]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.33.26:697][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.33.26:712][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.08-18.33.26:712][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.33.26:719][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.33.26:760][477]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.33.26:763][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.33.26:772][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.06.08-18.33.26:796][478]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.08-18.33.44:305][135]BlueprintLog: New page: Compile MainInventory
+[2020.06.08-18.33.44:410][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.06.08-18.33.48:776][481]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.06.08-18.33.50:130][594]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.33.50:131][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.34.04:208][839]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.08-18.34.08:712][216]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.06.08-18.34.09:137][216]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.06.08-18.34.11:219][400]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.08-18.34.11:266][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.34.11:266][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.08-18.34.11:266][400]PIE: New page: PIE session: Main (8 jun. 2020 22:34:11)
+[2020.06.08-18.34.11:266][400]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.34.11:333][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066757s)
+[2020.06.08-18.34.11:334][400]LogAIModule: Creating AISystem for world Main
+[2020.06.08-18.34.11:334][400]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2020.06.08-18.34.11:334][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Main.Main to /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main (0.067702s)
+[2020.06.08-18.34.11:386][400]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.08-18.34.11:388][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.08-18.34.11:388][400]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.08-18.34.11:388][400]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.08-18.34.11:407][400]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.08-18.34.11:407][400]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.34.11:407][400]LogAudioMixer: Display: Is Default: Yes
+[2020.06.08-18.34.11:407][400]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.08-18.34.11:408][400]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.08-18.34.11:408][400]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.08-18.34.11:408][400]LogAudioMixer: Display: Channel Order:
+[2020.06.08-18.34.11:408][400]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.08-18.34.11:408][400]LogAudioMixer: Display: 1: FrontRight
+[2020.06.08-18.34.11:420][400]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.34.11:421][400]LogInit: FAudioDevice initialized.
+[2020.06.08-18.34.11:428][400]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.08-18.34.11:446][400]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.06.08-20.34.11
+[2020.06.08-18.34.11:448][400]LogWorld: Bringing up level for play took: 0.019129
+[2020.06.08-18.34.11:449][400]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.06.08-18.34.11:450][400]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.08-18.34.11:480][400]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.34.11:480][400]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.34.11:483][400]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Main -0,27
+[2020.06.08-18.34.11:483][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.34.19:329][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.34.19:333][289]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.08-18.34.19:352][289]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.08-18.34.19:352][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.34.19:354][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.34.19:354][289]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.34.19:354][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.34.19:355][289]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.34.19:359][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.34.19:372][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.08-18.34.19:372][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.34.19:379][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.34.19:422][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.34.19:425][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.34.19:435][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.06.08-18.34.19:452][290]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.06.08-18.34.35:131][922]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PickupItems/Mesh/Pickaxe/Pick.Pick
+[2020.06.08-18.34.46:695][730]LogSavePackage: Moving '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Pick23AD448445928CB2BAEE0EA66EF51B63.tmp' to '../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/PickupItems/Mesh/Pickaxe/Pick.uasset'
+[2020.06.08-18.34.46:709][730]AssetCheck: New page: Asset Save: Pick
+[2020.06.08-18.34.46:709][730]LogContentValidation: Display: Validating StaticMesh /Game/PickupItems/Mesh/Pickaxe/Pick.Pick
+[2020.06.08-18.34.48:852][944]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.08-18.34.48:901][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.34.48:901][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.08-18.34.48:902][944]PIE: New page: PIE session: Main (8 jun. 2020 22:34:48)
+[2020.06.08-18.34.48:902][944]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.34.48:971][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070524s)
+[2020.06.08-18.34.48:972][944]LogAIModule: Creating AISystem for world Main
+[2020.06.08-18.34.48:972][944]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2020.06.08-18.34.48:972][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Main.Main to /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main (0.071637s)
+[2020.06.08-18.34.49:052][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.08-18.34.49:055][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.08-18.34.49:055][944]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.08-18.34.49:055][944]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: Is Default: Yes
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: Channel Order:
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.08-18.34.49:075][944]LogAudioMixer: Display: 1: FrontRight
+[2020.06.08-18.34.49:088][944]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.08-18.34.49:089][944]LogInit: FAudioDevice initialized.
+[2020.06.08-18.34.49:098][944]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.08-18.34.49:122][944]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.06.08-20.34.49
+[2020.06.08-18.34.49:126][944]LogWorld: Bringing up level for play took: 0.027263
+[2020.06.08-18.34.49:127][944]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.06.08-18.34.49:129][944]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.08-18.34.49:183][944]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.34.49:183][944]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget STextBlock [TextBlock.cpp(196)]!
+[2020.06.08-18.34.49:185][944]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Main -0,568
+[2020.06.08-18.34.49:186][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.34.55:977][689]Cmd: LevelEditor.ToggleImmersive
+[2020.06.08-18.34.56:072][691]LogRenderer: Reallocating scene render targets to support 1856x1000 Format 10 NumSamples 1 (Frame:749).
+[2020.06.08-18.34.56:103][692]LogRenderer: Reallocating scene render targets to support 1904x1028 Format 10 NumSamples 1 (Frame:751).
+[2020.06.08-18.34.56:133][693]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:753).
+[2020.06.08-18.35.08:936][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.35.08:936][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.35.08:936][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.35.08:937][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.35.08:937][224]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Main
+[2020.06.08-18.35.08:937][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.35.08:938][224]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.35.08:942][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.35.08:964][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.08-18.35.08:965][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/FirstPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2020.06.08-18.35.08:972][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.35.09:021][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.08-18.35.09:024][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.08-18.35.09:044][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.06.08-18.35.09:062][225]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.06.08-18.35.25:440][759]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.08-18.35.25:440][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.08-18.35.25:529][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MaterialMaker/Rock.Rock
+[2020.06.08-18.36.06:214][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MaterialMaker/RockPf" FILE="../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Content/MaterialMaker/RockPf.uasset" SILENT=true
+[2020.06.08-18.36.06:225][775]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.08-18.36.06:793][775]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.569 s
+[2020.06.08-18.36.06:793][775]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.08-18.36.06:793][775]LogOutputDevice: Error: 
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: Found circular redirect from /Game/MaterialMaker/RockPF.RockPF_C to /Game/MaterialMaker/RockPF.RockPF_C! Returning None instead
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: Stack: 
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabfa7b80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabc10c54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabede2a6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabef4e19 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabc448c7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc96a4ce42 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabeec453 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabdee329 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabcbc25c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe9f3a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe9f8e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabcbe155 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabcbc37a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe9f3a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe3e6bc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe9f8e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabcbe155 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe3ed24 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe3d15a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe3cce2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7f427b65 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7f42762c UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe814c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabea33f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffcabe89bca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7dba4125 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7dba4a5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7dbdf909 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7dbdc0fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7e3a17d2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7df1bdfe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:794][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7df1a7fa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7df2ede6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc704cac52 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7047de63 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc704e0eb0 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7c95d2f4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7c9c411e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7ca10324 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7c93886d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc7c91abd9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc9646c32b UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc96459869 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc9637e957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc9645fa4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc96460e1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc9637729d UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc961d1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc9624224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffc96237b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcac504918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcac4f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcac507195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcac4eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcee255c0d USER32.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcee255602 USER32.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcac508699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ff694016db0 UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ff69402c3ec UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ff69402c4ca UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ff69403ceae UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ff69403fcbe UE4Editor.exe!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffcede47bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: [Callstack] 0x00007ffceea4ce51 ntdll.dll!UnknownFunction []
+[2020.06.08-18.36.06:795][775]LogOutputDevice: Error: 
+[2020.06.08-18.36.06:803][775]LogStats:                SubmitErrorReport -  0.000 s
