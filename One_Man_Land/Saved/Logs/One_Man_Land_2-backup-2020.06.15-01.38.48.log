@@ -1,0 +1,1580 @@
+﻿Log file open, 06/15/20 03:37:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: One_Man_Land
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.100905
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  /Game/FirstPersonBP/Maps/Main -game -PIEVIACONSOLE -ResX=1920 -ResY=1080 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: D:/Instalacions/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.15-01.37.17:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.15-01.37.17:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.15-01.37.17:876][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.15-01.37.17:879][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:879][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.15-01.37.17:880][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.15-01.37.17:881][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.15-01.37.17:882][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.15-01.37.17:882][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.15-01.37.17:882][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.15-01.37.17:887][  0]LogHAL: Display: Platform has ~ 16 GB [17035890688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.15-01.37.17:887][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.15-01.37.17:887][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.15-01.37.17:887][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.15-01.37.17:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.15-01.37.17:889][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Saved/Config/Windows/Engine.ini]
+[2020.06.15-01.37.17:889][  0]LogInit: Computer: DESKTOP-6GKBG9S
+[2020.06.15-01.37.17:889][  0]LogInit: User: Usuari
+[2020.06.15-01.37.17:889][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.15-01.37.17:889][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.15-01.37.17:890][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.15-01.37.17:890][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.15-01.37.17:890][  0]LogMemory: Process Physical Memory: 107.14 MB used, 107.15 MB peak
+[2020.06.15-01.37.17:890][  0]LogMemory: Process Virtual Memory: 104.60 MB used, 104.60 MB peak
+[2020.06.15-01.37.17:890][  0]LogMemory: Physical Memory: 8685.79 MB used,  7560.90 MB free, 16246.69 MB total
+[2020.06.15-01.37.17:890][  0]LogMemory: Virtual Memory: 5141.53 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.06.15-01.37.17:894][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.15-01.37.17:919][  0]LogInit: Using OS detected language (es-ES).
+[2020.06.15-01.37.17:919][  0]LogInit: Using OS detected locale (es-ES).
+[2020.06.15-01.37.17:920][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.06.15-01.37.18:000][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.15-01.37.18:000][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.15-01.37.18:011][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.15-01.37.18:011][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.15-01.37.18:011][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.15-01.37.18:011][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.15-01.37.18:034][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.06.15-01.37.18:034][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.06.15-01.37.18:114][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.06.15-01.37.18:114][  0]LogD3D11RHI:       8088/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2020.06.15-01.37.18:117][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.15-01.37.18:117][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.15-01.37.18:117][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2020.06.15-01.37.18:127][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.15-01.37.18:127][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.15-01.37.18:127][  0]LogWindows: EnumDisplayDevices:
+[2020.06.15-01.37.18:128][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.06.15-01.37.18:128][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.15-01.37.18:129][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.06.15-01.37.18:129][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.15-01.37.18:129][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.15-01.37.18:130][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.15-01.37.18:130][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.15-01.37.18:130][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.06.15-01.37.18:130][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.06.15-01.37.18:130][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.06.15-01.37.18:130][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.06.15-01.37.18:130][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.06.15-01.37.18:194][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.15-01.37.18:194][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.15-01.37.18:208][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.15-01.37.18:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.15-01.37.18:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.15-01.37.18:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.15-01.37.18:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.15-01.37.18:625][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.15-01.37.18:628][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.15-01.37.18:653][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/Intermediate/Shaders/WorkingDirectory/16136/).
+[2020.06.15-01.37.18:653][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuari/AppData/Local/Temp/UnrealShaderWorkingDir/FE66E53F438D458192FAE9AD34459846/'.
+[2020.06.15-01.37.18:653][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.15-01.37.18:654][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.15-01.37.18:654][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.15-01.37.19:523][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.15-01.37.19:609][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.15-01.37.19:609][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuari/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.15-01.37.19:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.15-01.37.19:609][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.15-01.37.19:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Uni/3r/2n semestre/Motors2/survival-craft/survival-craft/One_Man_Land/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.15-01.37.19:609][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.15-01.37.19:621][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.15-01.37.19:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.15-01.37.19:621][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.15-01.37.19:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.15-01.37.19:623][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.15-01.37.19:623][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.15-01.37.19:653][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.15-01.37.19:655][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.15-01.37.19:656][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.15-01.37.19:788][  0]LogInit: Using OS detected language (es-ES).
+[2020.06.15-01.37.19:788][  0]LogInit: Using OS detected locale (es-ES).
+[2020.06.15-01.37.19:789][  0]LogTextLocalizationManager: No localization for 'es-ES' exists, so 'en' will be used for the language.
+[2020.06.15-01.37.19:789][  0]LogTextLocalizationManager: No localization for 'es-ES' exists, so 'en' will be used for the locale.
+[2020.06.15-01.37.19:789][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.06.15-01.37.19:789][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.06.15-01.37.19:789][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.06.15-01.37.19:793][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.06.15-01.37.20:107][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.000474 seconds
+[2020.06.15-01.37.20:169][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.15-01.37.20:302][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.15-01.37.20:302][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.15-01.37.20:302][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.15-01.37.20:302][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.15-01.37.20:303][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.15-01.37.20:315][  0]LogNetVersion: One_Man_Land 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3489033838)
+[2020.06.15-01.37.20:860][  0]LogMoviePlayer: Initializing movie player
+[2020.06.15-01.37.20:962][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.15-01.37.20:964][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.15-01.37.20:991][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.15-01.37.20:992][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.15-01.37.20:992][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.15-01.37.21:018][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.15-01.37.21:026][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.15-01.37.21:026][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.15-01.37.21:092][  0]LogOcInput: OculusInput pre-init called
+[2020.06.15-01.37.21:107][  0]LogUObjectArray: 52645 objects as part of root set at end of initial load.
+[2020.06.15-01.37.21:107][  0]LogUObjectAllocator: 9318280 out of 0 bytes used by permanent object pool.
+[2020.06.15-01.37.21:107][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.15-01.37.21:155][  0]LogEngine: Initializing Engine...
+[2020.06.15-01.37.21:156][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.15-01.37.21:158][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.15-01.37.21:363][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.15-01.37.21:365][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.15-01.37.21:365][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.15-01.37.21:365][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-01.37.21:412][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-01.37.21:439][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.06.15-01.37.21:447][  0]LogInit: FAudioDevice initialized.
+[2020.06.15-01.37.21:448][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.15-01.37.21:453][  0]LogInit: Texture streaming: Enabled
+[2020.06.15-01.37.21:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-01.37.21:590][  0]LogInit: Display: Game Engine Initialized.
+[2020.06.15-01.37.21:604][  0]LogInit: Display: Starting Game.
+[2020.06.15-01.37.21:604][  0]LogNet: Browse: /Game/FirstPersonBP/Maps/Main?Name=Player
+[2020.06.15-01.37.21:604][  0]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Main?Name=Player
+[2020.06.15-01.37.21:604][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.06.15-01.37.21:605][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-01.37.21:605][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-01.37.21:629][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.15-01.37.21:632][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.06.15-01.37.24:961][  0]LogAIModule: Creating AISystem for world Main
+[2020.06.15-01.37.24:961][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.15-01.37.24:963][  0]LogMaterial: Warning: Material /Game/Materials/GrassLight.GrassLight missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2020.06.15-01.37.24:963][  0]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2020.06.15-01.37.25:224][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Main.Main up for play (max tick rate 0) at 2020.06.15-03.37.25
+[2020.06.15-01.37.25:231][  0]LogWorld: Bringing up level for play took: 0.268735
+[2020.06.15-01.37.25:232][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.15-01.37.25:297][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.15-01.37.25:298][  0]LogLoad: Took 3.694182 seconds to LoadMap(/Game/FirstPersonBP/Maps/Main)
+[2020.06.15-01.37.25:315][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.15-01.37.25:339][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.06.15-01.37.25:339][  0]LogLoad: (Engine Initialization) Total time: 8.48 seconds
+[2020.06.15-01.37.25:339][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.15-01.37.25:387][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.15-01.37.25:401][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-01.37.25:543][  1]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.15-01.37.31:575][252]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2020.06.15-01.38.23:162][519]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2020.06.15-01.38.24:682][584]LogNet: Browse: /Game/FirstPersonBP/Maps/Main
+[2020.06.15-01.38.24:682][584]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Main
+[2020.06.15-01.38.24:682][584]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/Main
+[2020.06.15-01.38.24:685][584]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-01.38.24:688][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-01.38.24:757][584]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.15-01.38.24:757][584]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.15-01.38.24:866][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.06.15-01.38.27:994][584]LogAIModule: Creating AISystem for world Main
+[2020.06.15-01.38.27:995][584]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.15-01.38.27:997][584]LogMaterial: Warning: Material /Game/Materials/GrassLight.GrassLight missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2020.06.15-01.38.27:997][584]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2020.06.15-01.38.28:250][584]LogWorld: Bringing World /Game/FirstPersonBP/Maps/Main.Main up for play (max tick rate 0) at 2020.06.15-03.38.28
+[2020.06.15-01.38.28:253][584]LogWorld: Bringing up level for play took: 0.257020
+[2020.06.15-01.38.28:254][584]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.06.15-01.38.28:306][584]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.15-01.38.28:308][584]LogLoad: Took 3.625188 seconds to LoadMap(/Game/FirstPersonBP/Maps/Main)
+[2020.06.15-01.38.28:320][584]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:320][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-01.38.28:358][585]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.15-01.38.28:364][586]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:420][587]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:451][588]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:469][589]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:477][590]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:487][591]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:498][592]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:526][593]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:550][594]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:574][595]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:597][596]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:620][597]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:645][598]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:684][599]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:707][600]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:713][601]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:731][602]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:753][603]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:777][604]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:800][605]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:820][606]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:843][607]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:865][608]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:886][609]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:909][610]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:933][611]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:953][612]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:974][613]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.28:995][614]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:015][615]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:036][616]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:061][617]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:083][618]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:103][619]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:125][620]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:146][621]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:166][622]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:190][623]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:214][624]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:236][625]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:256][626]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:280][627]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:307][628]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:332][629]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:351][630]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:373][631]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:394][632]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:415][633]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:437][634]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:460][635]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:481][636]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:500][637]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:524][638]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:547][639]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:570][640]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:591][641]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:615][642]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:636][643]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:660][644]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:684][645]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:707][646]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:731][647]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:752][648]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:773][649]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:799][650]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:819][651]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:842][652]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:866][653]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:885][654]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:908][655]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:927][656]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:949][657]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.29:976][658]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:000][659]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:021][660]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:042][661]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:064][662]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:084][663]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:107][664]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:132][665]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:152][666]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:173][667]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:195][668]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:218][669]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:244][670]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:268][671]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:292][672]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:315][673]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:335][674]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:359][675]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:381][676]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:407][677]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:428][678]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:450][679]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:472][680]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:493][681]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:516][682]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:540][683]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:562][684]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:586][685]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:607][686]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:630][687]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:653][688]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:679][689]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:701][690]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:725][691]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:745][692]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:766][693]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:794][694]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:813][695]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:836][696]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:857][697]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:878][698]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:902][699]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:927][700]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:949][701]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:971][702]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.30:992][703]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:013][704]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:036][705]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:061][706]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:082][707]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:104][708]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:126][709]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:148][710]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:169][711]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:193][712]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:215][713]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:236][714]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:259][715]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:280][716]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:302][717]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:329][718]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:352][719]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:376][720]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:400][721]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:420][722]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:445][723]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:466][724]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:488][725]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:510][726]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:530][727]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:552][728]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:578][729]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:604][730]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:628][731]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:649][732]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:670][733]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:691][734]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:715][735]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:739][736]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:762][737]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:785][738]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:807][739]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:831][740]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:860][741]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:879][742]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:901][743]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:923][744]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:943][745]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:967][746]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.31:993][747]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:014][748]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:038][749]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:059][750]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:081][751]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:106][752]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:128][753]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:149][754]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:170][755]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:191][756]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:213][757]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:232][758]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:259][759]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:283][760]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:305][761]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:327][762]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:348][763]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:373][764]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:397][765]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:421][766]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:445][767]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:468][768]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:490][769]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:513][770]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:540][771]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:559][772]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:580][773]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:601][774]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:624][775]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:648][776]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:670][777]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:692][778]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:712][779]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:734][780]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:756][781]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:777][782]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:803][783]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:827][784]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:850][785]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:872][786]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:894][787]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:920][788]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:945][789]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:970][790]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.32:995][791]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:017][792]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:042][793]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:065][794]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:087][795]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:109][796]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:133][797]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:157][798]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:183][799]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:207][800]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:228][801]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:248][802]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:270][803]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:291][804]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:318][805]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:339][806]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:360][807]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:383][808]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:406][809]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:430][810]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:458][811]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:479][812]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:504][813]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:524][814]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:548][815]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:568][816]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:596][817]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:617][818]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:643][819]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:664][820]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:686][821]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:709][822]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:732][823]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:755][824]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:776][825]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:799][826]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:819][827]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:845][828]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:868][829]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:890][830]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:912][831]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:934][832]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:955][833]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.33:979][834]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:004][835]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:023][836]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:045][837]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:068][838]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:089][839]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:110][840]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:136][841]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:155][842]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:178][843]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:201][844]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:223][845]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:248][846]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:273][847]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:295][848]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:321][849]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:341][850]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:362][851]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:386][852]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:413][853]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:437][854]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:462][855]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:488][856]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:516][857]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:543][858]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:566][859]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:585][860]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:608][861]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:631][862]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:655][863]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:679][864]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:702][865]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:723][866]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:745][867]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:766][868]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:793][869]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:814][870]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:836][871]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:856][872]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:877][873]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:900][874]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:925][875]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:946][876]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:969][877]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.34:993][878]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:018][879]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:040][880]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:065][881]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:086][882]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:105][883]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:128][884]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:149][885]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:174][886]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:197][887]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:218][888]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:239][889]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:261][890]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:282][891]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:304][892]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:329][893]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:353][894]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:372][895]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:395][896]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:416][897]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:440][898]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:464][899]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:489][900]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:513][901]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:539][902]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:564][903]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:595][904]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:620][905]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:641][906]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:664][907]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:686][908]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:709][909]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:733][910]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:753][911]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:776][912]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:796][913]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:821][914]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:843][915]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:869][916]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:889][917]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:911][918]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:931][919]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:954][920]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.35:978][921]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:004][922]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:027][923]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:048][924]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:071][925]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:094][926]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:119][927]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:144][928]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:166][929]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:186][930]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:209][931]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:230][932]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:253][933]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:278][934]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:299][935]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:322][936]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:344][937]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:365][938]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:386][939]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:411][940]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:433][941]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:457][942]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:479][943]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:503][944]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:530][945]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:553][946]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:579][947]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:601][948]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:624][949]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:651][950]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:676][951]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:699][952]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:719][953]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:744][954]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:765][955]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:794][956]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:815][957]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:836][958]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:858][959]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:879][960]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:903][961]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:928][962]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:951][963]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:971][964]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.36:994][965]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:017][966]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:041][967]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:065][968]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:086][969]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:109][970]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:131][971]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:155][972]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:179][973]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:205][974]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:224][975]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:245][976]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:266][977]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:288][978]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:310][979]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:334][980]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:357][981]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:381][982]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:401][983]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:424][984]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:447][985]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:472][986]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:493][987]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:516][988]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:538][989]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:559][990]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:582][991]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:606][992]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:631][993]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:652][994]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:676][995]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:703][996]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:728][997]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:749][998]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:772][999]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:793][  0]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:814][  1]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:833][  2]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:855][  3]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:879][  4]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:901][  5]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:924][  6]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:945][  7]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:964][  8]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.37:988][  9]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:013][ 10]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:034][ 11]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:057][ 12]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:078][ 13]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:098][ 14]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:121][ 15]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:147][ 16]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:168][ 17]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:190][ 18]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:214][ 19]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:236][ 20]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:264][ 21]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:283][ 22]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:304][ 23]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:327][ 24]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:350][ 25]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:372][ 26]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:399][ 27]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:418][ 28]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:440][ 29]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:463][ 30]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:484][ 31]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:508][ 32]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:531][ 33]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:553][ 34]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:576][ 35]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:597][ 36]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:617][ 37]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:642][ 38]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:668][ 39]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:692][ 40]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:717][ 41]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:740][ 42]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:765][ 43]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:789][ 44]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:813][ 45]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:835][ 46]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:856][ 47]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:878][ 48]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:898][ 49]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:920][ 50]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:945][ 51]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:967][ 52]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.38:987][ 53]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:007][ 54]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:032][ 55]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:056][ 56]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:079][ 57]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:102][ 58]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:126][ 59]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:146][ 60]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:166][ 61]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:190][ 62]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:213][ 63]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:233][ 64]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:256][ 65]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:276][ 66]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:296][ 67]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:317][ 68]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:341][ 69]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:364][ 70]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:384][ 71]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:406][ 72]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:427][ 73]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:451][ 74]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:475][ 75]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:497][ 76]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:518][ 77]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:540][ 78]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:561][ 79]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:586][ 80]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:607][ 81]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:628][ 82]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:650][ 83]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:672][ 84]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:698][ 85]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:721][ 86]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:749][ 87]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:773][ 88]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:796][ 89]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:818][ 90]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:841][ 91]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:864][ 92]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:885][ 93]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:907][ 94]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:929][ 95]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:952][ 96]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:973][ 97]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.39:997][ 98]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:021][ 99]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:042][100]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:063][101]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:083][102]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:106][103]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:130][104]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:151][105]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:172][106]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:194][107]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:218][108]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:238][109]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:262][110]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:285][111]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:307][112]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:328][113]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:349][114]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:377][115]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:400][116]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:421][117]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:442][118]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:462][119]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:486][120]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:509][121]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:531][122]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:552][123]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:575][124]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:597][125]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:618][126]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:642][127]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:664][128]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:685][129]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:707][130]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:730][131]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:750][132]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:773][133]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:802][134]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:827][135]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:851][136]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:874][137]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:895][138]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:917][139]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:940][140]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:962][141]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.40:983][142]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:005][143]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:030][144]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:062][145]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:082][146]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:106][147]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:126][148]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:149][149]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:172][150]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:197][151]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:221][152]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:242][153]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:266][154]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:288][155]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:311][156]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:334][157]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:358][158]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:380][159]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:402][160]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:421][161]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:445][162]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:470][163]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:491][164]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:514][165]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:535][166]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:557][167]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:580][168]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:602][169]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:622][170]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:645][171]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:664][172]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:687][173]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:714][174]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:737][175]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:757][176]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:780][177]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:800][178]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:824][179]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:848][180]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:876][181]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:897][182]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:922][183]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:943][184]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:966][185]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.41:994][186]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:014][187]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:035][188]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:060][189]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:080][190]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:101][191]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:128][192]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:152][193]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:173][194]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:193][195]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:216][196]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:236][197]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:262][198]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:283][199]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:304][200]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:324][201]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:346][202]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:370][203]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:396][204]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:419][205]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:440][206]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:460][207]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:483][208]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:503][209]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:528][210]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:550][211]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:570][212]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:592][213]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:616][214]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:637][215]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:660][216]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:682][217]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:703][218]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:725][219]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:746][220]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:767][221]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:793][222]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:812][223]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:836][224]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:858][225]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:881][226]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:904][227]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:932][228]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:954][229]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:976][230]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.42:996][231]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:017][232]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:043][233]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:069][234]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:091][235]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:113][236]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:133][237]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:155][238]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:177][239]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:202][240]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:223][241]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:247][242]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:267][243]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:291][244]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:312][245]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:336][246]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:357][247]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:380][248]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:402][249]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:421][250]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:444][251]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:468][252]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:491][253]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:514][254]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:531][254]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2020.06.15-01.38.43:537][255]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:556][256]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:580][257]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:603][258]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:624][259]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:644][260]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:664][261]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:687][262]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:709][263]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:737][264]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:759][265]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:781][266]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:801][267]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:824][268]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:847][269]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:867][270]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:889][271]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:910][272]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:935][273]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:961][274]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.43:993][275]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:014][276]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:034][277]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:058][278]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:080][279]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:102][280]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:127][281]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:150][282]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:171][283]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:194][284]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:215][285]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:235][286]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:262][287]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:280][288]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:303][289]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:324][290]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:345][291]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:367][292]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:390][293]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:416][294]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:437][295]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:458][296]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:479][297]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:500][298]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:526][299]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:549][300]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:569][301]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:592][302]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:612][303]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:637][304]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:661][305]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:682][306]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:704][307]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:725][308]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:750][309]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:771][310]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:794][311]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:816][312]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:836][313]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:859][314]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:881][315]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:903][316]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:927][317]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:947][318]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:970][319]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.44:993][320]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:016][321]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:042][322]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:066][323]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:090][324]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:111][325]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:133][326]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:153][327]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:176][328]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:197][329]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:218][330]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:240][331]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:260][332]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:282][333]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:304][334]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:327][335]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:349][336]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:370][337]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:390][338]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:414][339]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:435][340]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:455][340]Closing by request
+[2020.06.15-01.38.45:455][340]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.06.15-01.38.45:455][340]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.06.15-01.38.45:460][341]LogAudio: Display: RecursiveApplyAdjuster failed, likely because we are clearing the level.
+[2020.06.15-01.38.45:475][341]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.06.15-01.38.45:481][341]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.15-01.38.45:502][341]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.15-01.38.45:510][341]LogInit: Display: PreExit Game.
+[2020.06.15-01.38.45:510][341]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/Main
+[2020.06.15-01.38.45:512][341]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-01.38.45:517][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-01.38.46:218][341]LogSlate: Window 'One_Man_Land (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.06.15-01.38.46:219][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.15-01.38.46:224][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.15-01.38.46:226][341]LogExit: Preparing to exit.
+[2020.06.15-01.38.47:013][341]LogMoviePlayer: Shutting down movie player
+[2020.06.15-01.38.47:137][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-01.38.47:178][341]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.15-01.38.47:184][341]LogExit: Game engine shut down
+[2020.06.15-01.38.47:297][341]LogExit: Object subsystem successfully closed.
+[2020.06.15-01.38.47:327][341]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.15-01.38.47:336][341]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (434)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module SequenceRecorder (432)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module AutomationController (430)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module AutomationWorker (428)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module Voice (426)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module AIModule (424)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module GameplayDebugger (423)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module AITestSuite (421)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module NavigationSystem (419)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module OculusMR (416)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (414)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (412)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module WebMMedia (410)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (408)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (406)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (404)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (402)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (400)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module CharacterAI (398)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module SessionServices (396)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (394)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module LiveCoding (392)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module LevelSequence (390)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (388)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module MovieScene (386)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (384)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module PortalServices (382)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module PortalRpc (380)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module MessagingRpc (378)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (376)
+[2020.06.15-01.38.47:337][341]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (374)
+[2020.06.15-01.38.47:339][341]LogModuleManager: Shutting down and abandoning module ProfilerService (372)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module TaskGraph (370)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module EditableMesh (362)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (355)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module AssetTags (352)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (350)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (348)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module AppleImageUtils (346)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module AndroidPermission (344)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (342)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (340)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module MediaCompositing (338)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module ImgMedia (336)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (334)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (332)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (330)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (328)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (327)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module GeometryCache (324)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (323)
+[2020.06.15-01.38.47:524][341]LogModuleManager: Shutting down and abandoning module BackChannel (320)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module AutomationUtils (318)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (314)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (310)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module UObjectPlugin (308)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (306)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (304)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (298)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module SignificanceManager (296)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2020.06.15-01.38.47:525][341]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2020.06.15-01.38.47:625][341]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2020.06.15-01.38.48:008][341]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (280)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (278)
+[2020.06.15-01.38.48:009][341]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (276)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (274)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (272)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (270)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (268)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (266)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapController (264)
+[2020.06.15-01.38.48:009][341]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (262)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module MagicLeapAR (260)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module AugmentedReality (259)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (256)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module FacialAnimation (254)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (252)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module TreeMap (251)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module AnimationSharing (248)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module Paper2D (244)
+[2020.06.15-01.38.48:009][341]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (242)
+[2020.06.15-01.38.48:014][341]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (240)
+[2020.06.15-01.38.48:014][341]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (238)
+[2020.06.15-01.38.48:014][341]LogModuleManager: Shutting down and abandoning module PacketHandler (236)
+[2020.06.15-01.38.48:014][341]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (234)
+[2020.06.15-01.38.48:014][341]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (232)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module MediaAssets (230)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module Overlay (228)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module OverlayEditor (227)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module VREditor (224)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module StringTableEditor (222)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (220)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (218)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module FunctionalTesting (216)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (214)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (213)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module UMG (210)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module UMGEditor (209)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module Sequencer (208)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module MessageLog (205)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module SlateReflector (200)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module Slate (198)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module SlateCore (196)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (194)
+[2020.06.15-01.38.48:015][341]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module UnrealEd (190)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module Messaging (186)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module Core (176)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MovieSceneTools (174)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (167)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (165)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (163)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (152)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (150)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.06.15-01.38.48:016][341]LogDerivedDataCache: Shutdown
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module XGEController (146)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (141)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (139)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (137)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (135)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (133)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (131)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (129)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (127)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (125)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module ImageWrapper (124)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (121)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (119)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (117)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (115)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (113)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (111)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module InputCore (104)
+[2020.06.15-01.38.48:016][341]LogModuleManager: Shutting down and abandoning module Settings (102)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.06.15-01.38.48:017][341]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.06.15-01.38.48:017][341]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.06.15-01.38.48:018][341]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.06.15-01.38.48:018][341]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.06.15-01.38.48:031][341]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.06.15-01.38.48:037][341]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.06.15-01.38.48:039][341]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.06.15-01.38.48:041][341]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.15-01.38.48:043][341]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.15-01.38.48:045][341]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.15-01.38.48:046][341]LogD3D11RHI: Shutdown
+[2020.06.15-01.38.48:046][341]LogD3D11RHI: CleanupD3DDevice
+[2020.06.15-01.38.48:052][341]LogExit: Exiting.
+[2020.06.15-01.38.48:063][341]Log file closed, 06/15/20 03:38:48
